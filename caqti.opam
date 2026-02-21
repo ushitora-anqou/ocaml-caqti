@@ -32,6 +32,7 @@ depends: [
   "tls"
   "uri" {>= "2.2.0"}
   "x509"
+  "sqlite3"
 ]
 conflicts: [
   "result" {< "1.5"}
